@@ -12,6 +12,8 @@ html, body {
 
     color: #FEFFFF;
 
+   text-transform: capitalize;
+
     font-family: 'Inter', sans-serif;
 
     background-color: #333;
