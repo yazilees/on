@@ -1,4 +1,41 @@
 [
+{
+    "id": " badminton",
+    "league": "BWF World Championships 2025",
+    "team1": {
+      "name": "BWF World Champ 2025",
+      "logo": "https://yt3.googleusercontent.com/AMKWCXOcD0PA1z_ww69MYcJJ5nuqm04Nbp2-sowu9aJ4HDITNQSJwHvxtlklMaWn36aTG_iT=s900-c-k-c0x00ffffff-no-rj"
+    },
+    "team2": {
+      "name": "BWF World Champ 2025",
+      "logo": "https://yt3.googleusercontent.com/AMKWCXOcD0PA1z_ww69MYcJJ5nuqm04Nbp2-sowu9aJ4HDITNQSJwHvxtlklMaWn36aTG_iT=s900-c-k-c0x00ffffff-no-rj"
+    },
+    "kickoff_date": "2025-08-27",
+    "kickoff_time": "20:00",
+    "match_date": "2025-08-27",
+    "match_time": "20:00",
+    "duration": "9.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
+    "servers": [
+      {
+        "url": "https://zohls.blogspot.com/?file=https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3989473782321061_AiHD.m3u8?txSecret=90f2e93c8a421fcab2e1af38ecee07c8&txTime=68AFE250",
+        "label": "COURT 1"
+      },
+      {
+        "url": "https://zohls.blogspot.com/?file=https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/3989474026174061_AiHD.m3u8?txSecret=b1c7762ae77ed23ca525fb1c445ac6e8&txTime=68AFE250",
+        "label": "COURT 2"
+      },
+      {
+        "url": "https://zohls.blogspot.com/?file=https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3989474286012061_AiHD.m3u8?txSecret=1b604cf1ceaf783220f205bb6a23f275&txTime=68AFE250",
+        "label": "COURT 3"
+      },
+{
+        "url": "https://zohls.blogspot.com/?file=https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3989474517286061_AiHD.m3u8?txSecret=48d07b1f7ef4279650069653edf2716e&txTime=68AFE250",
+        "label": "COURT 4"
+      }
+    ],
+    "is_womens": false
+  }, 
   {
     "id": "groningen-heracles",
     "league": "Eredivisie",
