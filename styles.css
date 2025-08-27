@@ -146,7 +146,7 @@ html, body {
 
     align-items: center;
 
-    background-color: #DEF2F1;
+    background-color: #ffdede;
 
     padding: 12px;
 
@@ -250,7 +250,7 @@ html, body {
 
 .channel-container.selected .status {
 
-    color: #DEF2F1;
+    color: #da2920;
 
 }
 
