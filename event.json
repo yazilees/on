@@ -18,28 +18,24 @@
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://wikisport.cc/play?token=00fmbxF01UEQuIikx2wd5UVNVW9MSGRnNElSL0x6WHAvMEtvRW4wejZFYTU5VzBlUnVOVnUyNHNZMWdCUzhPcXpFTmF6WEZvZnFzbS9NYnltODlKWXhvdHppNlU4eEJtakxtdnV6WEtyYW1wbTNWVnVhcTdabkVGNUovS1UvRFRhU1dhQVV4STNCYWZyaXZOK1IweHhyS2Y1eGlyNVc2alNJdDBlZVF6bWtWK1JPQUhTd1dKdWVkUnpJNm8yOWYvOTlscmI0OHM4ZlBBRGxwZmdNS0R5azlMSWpPUVJ5WlJtWkEzNTkrV3dLSzdnbExYLzdqbjVCSzk1dU9IME1US1VjaVViWE5WSmw3OThVZlNyMHRrRnhZR3QzZGhodUMwbzd2UU5DeUJZNFNFT1ZUVmpGdjlYUkJUL3FuUFJ6UU9pQmUrN0JBSnhSL0VtVEJJREZLRmZITlhneG1BajZtOVFWRzVjaUs5eURVNDNZejNxRkhhenFLN3oyUnd3ZHlsUkl5YkhtYU5MbmsrNXlTL1ZxK1h4a1h2Z0g3VjFIaks2REJSaVBPWlFNYkxvRmkyUGpuMmRvamhQZkRiTDMxeEMyWDgvZXRMSFB3T3Y4RmhSeEF4c0JoTFdDamorU1RlNkIvV3kwVW52cFdubjU3cklKcDY3YSsxdGVoakxXTlBvd3FKK2xHTVZFYjhxdzYzUmI0R25jYXNrM1BFREwzQWpRS2pJUG9xRlBGYy9RWDhsMWZQOFJEeTBoaHRWSFQvK255dEhWTmR5bHRURE5OYWIwQytaRjMwcXhjSzlVQ0RqdXlmNEJvTlRQMnVsVmQ3QjRRM2F2aXZjSW9ZK0pWdWFtckU1S0kzNHY4bENaS2xXRFRRZWwzV3BFS2hTUGEycmk5aUZHclNCWEw0VzlSeVExbCtsdFhwMDNhRDc3V0JHRERlUWdTamM0WjFJc1kveWFKOGo2K2p1NVBRYXc4eVBROEJTRk4yRG5qNUc1MVBPbTRTMDlvd2JNZGtycDd5RURMNDBCMFZSdkNucVVLNWdlSE5FcjVvMStJSmZieC9ZblBLeC9zODFSTEpVNk5lai9tajJhT3ZORE9sK25JbDdKV0IzNjRqVDlOMnFoUXlodDVDOFZwTklSVmJKb1U2TWFnRE5vNXlxbHgyVnVoemZOaGJvNW9uUDljK3lQbzRISERTZi94MG5uNGdPMFNXUjhnOTZiZitmdWROZ2Y0czhjWjVMNHIxR1dyTFVMa09NWm1GUVJPcQ",
+        "url": "https://wikisport.cc/play?token=",
         "label": "COURT 1"
       },
       {
-        "url": "https://zohls.blogspot.com/?file=https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/3989482826233061_AiSD.m3u8?txSecret=b0ff26d3a882030d44c81a27cfdb5daf&txTime=68B133D0",
+        "url": "https://wikisport.cc/play?token=",
         "label": "COURT 2"
       },
       {
-        "url": "https://zohls.blogspot.com/?file=https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3989483115384061_AiHD.m3u8?txSecret=4844fbfd95b4c479473cf79ba29024eb&txTime=68B133D0",
+        "url": "https://wikisport.cc/play?token=",
         "label": "COURT 3"
       },
 {
-        "url": "https://zohls.blogspot.com/?file=https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3989483310109061_AiHD.m3u8?txSecret=7847450c51baca494b9b884b4c54ae40&txTime=68B133D0",
+        "url": "https://wikisport.cc/play?token=",
         "label": "COURT 4"
       }, 
 {
         "url": "https://zohls.blogspot.com/?file=https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/3989482628023061_AiSD.m3u8?txSecret=122059f06955a293281316301a0526ad&txTime=68B133D0",
         "label": "COURT 1 +"
-      }, 
-{
-        "url": "https://zohls.blogspot.com/?file=https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__1756375712__YMQ-Court2HB_sjb720__3327511.ts?title=8197826&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=nqf8IL2zsRACAWeBlj5cESeP&cdnQuality=abr&quality=2&multi_raw_stream=YMQ-Court2HB&ccode=live05030101&expire=21600&psid=2B957CF1BDC98124FD94C1D79295129A&ups_client_netip=103.129.150.29&ups_ts=1756366103&ups_userid=0&utid=nqf8IL2zsRACAWeBlj5cESeP&vid=8197826_8122931&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa&cug=10&t=548cd000f808fc5&vkey=B9f26246f0c547c178b679b858db82bbe",
-        "label": "COURT 2 +"
       }
     ],
     "is_womens": false
