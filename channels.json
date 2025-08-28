@@ -1,4 +1,18 @@
 [
+ {
+        "id": "tnt1",
+        "name": "TNT Sports 1",
+        "logo": "bhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREdGAOA56Q5MrZmtE01gcihBxSVNLkEwRTag&s",
+        "url": "https://artplay.pages.dev/?id=TNT1",
+        "status": "Online"
+    },
+{
+        "id": "tnt2",
+        "name": "TNT Sports 2",
+        "logo": "bhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREdGAOA56Q5MrZmtE01gcihBxSVNLkEwRTag&s",
+        "url": "https://artplay.pages.dev/?id=TNT2",
+        "status": "Online"
+    },
     {
         "id": "ssc1",
         "name": "SSC Sports 1",
