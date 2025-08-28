@@ -64,7 +64,7 @@
     "id": "ligaindonesia",
     "league": "Super League",
     "team1": {
-      "name": "PSBS Biak Numfor",
+      "name": "PSBS Biak",
       "logo": "https://static.flashscore.com/res/image/data/YTyuYOfM-phR6Gnck.png"
     },
     "team2": {
@@ -75,6 +75,26 @@
     "kickoff_time": "15:30",
     "match_date": "2025-08-29",
     "match_time": "15:30",
+    "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
+    "servers": [],
+    "is_womens": false
+  },
+{
+    "id": "ligaindonesia",
+    "league": "Super League",
+    "team1": {
+      "name": "Persija Jakarta",
+      "logo": "https://static.flashscore.com/res/image/data/2uyZBddM-65biHEjh.png"
+    },
+    "team2": {
+      "name": "Dewa United",
+      "logo": "https://static.flashscore.com/res/image/data/nmnoOY9r-lrspFRA0.png"
+    },
+    "kickoff_date": "2025-08-29",
+    "kickoff_time": "15:30",
+    "match_date": "2025-08-29",
+    "match_time": "19:00",
     "duration": "3.5",
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [],
