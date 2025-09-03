@@ -1,26 +1,38 @@
 [
   {
-    "id": "Yemen-U23-Singapore-U23",
-    "league": "AFC Asian Cup U23 - Qualification - Round 1",
+    "id": "badminton",
+    "league": "BWF LI-NING Hong Kong Open 2025",
     "team1": {
-      "name": "Yemen U23",
-      "logo": "https://static.flashscore.com/res/image/data/dloLosHG-juoTB6Rh.png"
+      "name": "Badminton",
+      "logo": "https://img.bwfbadminton.com/image/upload/v1747962450/assets/tournaments/logo/DD92BA3F-B739-4B94-8F72-F4277A1C5034.png"
     },
     "team2": {
-      "name": "Singapore U23",
-      "logo": "https://static.flashscore.com/res/image/data/6NhAgsyB-G01LILSk.png"
+      "name": "Badminton",
+      "logo": "https://img.bwfbadminton.com/image/upload/v1747962450/assets/tournaments/logo/DD92BA3F-B739-4B94-8F72-F4277A1C5034.png"
     },
-    "kickoff_date": "2025-09-03",
-    "kickoff_time": "16:00",
-    "match_date": "2025-09-03",
-    "match_time": "16:00",
-    "duration": "3.5",
+    "kickoff_date": "2025-09-04",
+    "kickoff_time": "09:00",
+    "match_date": "2025-09-04",
+    "match_time": "09:00",
+    "duration": "12",
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
         "url": "",
-        "label": "CH-EN"
-      }
+        "label": "COURT 1"
+      },
+      {
+        "url": "",
+        "label": "COURT 2"
+      },
+      {
+        "url": "",
+        "label": "COURT 3"
+      },
+      {
+        "url": "",
+        "label": "COURT 4"
+      },
     ],
     "is_womens": false
   },
