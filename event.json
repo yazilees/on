@@ -18,19 +18,19 @@
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "",
+        "url": "https://flvos.pages.dev/",
         "label": "COURT 1"
       },
       {
-        "url": "",
+        "url": "https://flvos.pages.dev/",
         "label": "COURT 2"
       },
       {
-        "url": "",
+        "url": "https://flvos.pages.dev/",
         "label": "COURT 3"
       },
       {
-        "url": "",
+        "url": "https://flvos.pages.dev/",
         "label": "COURT 4"
       }
     ],
