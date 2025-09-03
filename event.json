@@ -43,8 +43,12 @@
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
+        "url": "https://zohls.blogspot.com/?file=https://v4-dbe1f5401bfd44d7ed529ff98786ce64.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-100000047.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=68e0ddcd0a874c4c0bf4f7ab3b254de7",
+        "label": "CH 01"
+      },
+     {
         "url": "https://zohls.blogspot.com/?file=https://tfou4gr5domt1gc41hctogezdepbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel13/playlist.m3u8?wsSecret%3D605419d678e7c61d433d05408cbc2812&wsABSTime=1756944722&wsSession=b8a4c904d01535e10184d0b4-175690152337384&wsIPSercert=3266ad54cf25df726d8fa150d88eb83d&wsiphost=local&wsBindIP=1&m=1",
-        "label": "CH-ID"
+        "label": "CH 02"
       }
     ],
     "is_womens": false
