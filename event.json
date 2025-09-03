@@ -37,19 +37,19 @@
     "is_womens": false
   },
   {
-    "id": "Indonesia-U23-Laos-U23",
-    "league": "AFC Asian Cup U23 - Qualification - Round 1",
+    "id": "malay-sing",
+    "league": "Friendly Matches",
     "team1": {
-      "name": "Indonesia U23",
-      "logo": "https://static.flashscore.com/res/image/data/f5toOQFG-IiA9AZbd.png"
+      "name": "Malaysia",
+      "logo": "https://embeds.ikotv5.fun/_next/image?url=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2F9e5b39abe0157cedd650c0d0c5cbd767.png&w=128&q=75"
     },
     "team2": {
-      "name": "Laos U23",
-      "logo": "https://static.flashscore.com/res/image/data/YD9CfP9r-dhlpQy5J.png"
+      "name": "Singapore",
+      "logo": "https://embeds.ikotv5.fun/_next/image?url=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2Fbfa20d86a59044ef90a4609dde03985c.png&w=128&q=75"
     },
-    "kickoff_date": "2025-09-03",
+    "kickoff_date": "2025-09-04",
     "kickoff_time": "19:30",
-    "match_date": "2025-09-03",
+    "match_date": "2025-09-04",
     "match_time": "19:30",
     "duration": "3.5",
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
