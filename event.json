@@ -114,7 +114,7 @@
     "servers": [
       {
         "url": "https://flvos.pages.dev/?file=https://pc-gqj-pull.yjhl7.com/live/gqj_stream_121905_8.flv?txSecret=3b1efb72d556c8a61f9d65a0c0c03ed4&txTime=68BC3629",
-        "label": "CH 01 HD"
+        "label": "CH 01"
       },
       {
         "url": "https://flvos.pages.dev/?file=https://pc-gqj-pull.yjhl7.com/live/gqj_stream_114026_46.flv?txSecret=e80069ef36f5646264e3b78d9099574f&txTime=68BC3A5B",
@@ -126,7 +126,7 @@
       },
       {
         "url": "https://flvos.pages.dev/?file=https://pc-gqj-pull.yjhl7.com/live/gqj_stream_113997_15.flv?txSecret=ed283e7a42e454cbdda0ef5980cc2ce1&txTime=68BC3B4C",
-        "label": "CH 03"
+        "label": "CH 04"
       }
     ],
     "is_womens": false
