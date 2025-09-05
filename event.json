@@ -55,16 +55,16 @@
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://list-govoet.blogspot.com/p/embed1.html",
-        "label": "CH 01"
+        "url": "https://artplay.pages.dev/?id=TNT2",
+        "label": "CH 01 HD"
       },
       {
-        "url": "https://list-govoet.blogspot.com/p/embed2.html",
-        "label": "CH 02"
+        "url": "https://artplay.pages.dev/?id=TNT2",
+        "label": "CH 02 HD"
       },
       {
-        "url": "https://list-govoet.blogspot.com/p/channel1.html",
-        "label": "CH 03"
+        "url": "https://artplay.pages.dev/?id=TNT2",
+        "label": "CH 03 HD"
       }
     ],
     "is_womens": false
