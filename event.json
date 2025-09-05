@@ -123,6 +123,10 @@
       {
         "url": "https://flvos.pages.dev/?file=https://pc-gqj-pull.yjhl7.com/live/gqj_stream_99046_4.flv?txSecret=9a31262a165721afcf900a1ce00494ba&txTime=68BC37E2",
         "label": "CH 03"
+      },
+      {
+        "url": "https://flvos.pages.dev/?file=https://pc-gqj-pull.yjhl7.com/live/gqj_stream_113997_15.flv?txSecret=ed283e7a42e454cbdda0ef5980cc2ce1&txTime=68BC3B4C",
+        "label": "CH 03"
       }
     ],
     "is_womens": false
