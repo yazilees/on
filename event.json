@@ -135,6 +135,20 @@
     ],
     "is_womens": false
   },
+{
+    "id": "Qualif.CmEurope-Italie-Estonie",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Italy",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/italy.png"
+    },
+    "team2": {
+      "name": "Estonia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/estonia.png"
+    },
+    "kickoff_date": "2025-09-06",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-06",
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
