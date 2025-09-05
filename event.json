@@ -113,7 +113,7 @@
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://flvos.pages.dev/?file=https://blpullhw.acmvx.cn/live/e9eb8c0142d24e408600d8e0a6fca485.m3u8?auth_key=1757252732-7f8e2e7cc270485ca5a4ccdd5ee34163-0-e8123cc257cf006e9ad9948c2a739ba5",
+        "url": "https://flvos.pages.dev/?file=https://pull-prod511.zczlxxkj.com/live/8497120_lhd.flv?auth_info=1CMUSoSOgqXmVHL6j1QB%2FLn2BtVAtGd11qGkKkG6O1FspHIZ8Zlk6dATTref4MG8.4373306e644148427a3566487154716f",
         "label": "CH 01"
       },
       {
@@ -121,7 +121,7 @@
         "label": "CH 02"
       },
       {
-        "url": "https://flvos.pages.dev/?file=https://blpullhw.acmvx.cn/live/e9eb8c0142d24e408600d8e0a6fca485.m3u8?auth_key=1757252732-7f8e2e7cc270485ca5a4ccdd5ee34163-0-e8123cc257cf006e9ad9948c2a739ba5",
+        "url": "https://flvos.pages.dev/?file=https://pull-prod511.zczlxxkj.com/live/8497120_lud.flv?auth_info=Kg%2B4STe6lK7RjKOhCSm9P7c33kPhln6MOPmi7YhWeWrHkoF1T9N8gQ5etYSg%2BbKL.384f5677667751527634585864547742",
         "label": "CH 03"
       },
       {
