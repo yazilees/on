@@ -48,23 +48,23 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Po7XRR9D5-BO9NUoJmgZg6iNEmLG4gaZMA&s"
     },
     "kickoff_date": "2025-09-05",
-    "kickoff_time": "20:30",
+    "kickoff_time": "15:30",
     "match_date": "2025-09-05",
-    "match_time": "20:30",
-    "duration": "3.5",
+    "match_time": "15:30",
+    "duration": "90",
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
         "url": "https://list-govoet.blogspot.com/p/embed1.html",
-        "label": "CH-ID"
+        "label": "CH 01"
       },
       {
         "url": "https://list-govoet.blogspot.com/p/embed2.html",
-        "label": "CH-ID"
+        "label": "CH 02"
       },
       {
         "url": "https://list-govoet.blogspot.com/p/channel1.html",
-        "label": "CH-ID"
+        "label": "CH 03"
       }
     ],
     "is_womens": false
