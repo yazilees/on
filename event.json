@@ -70,6 +70,39 @@
     "is_womens": false
   },
   {
+    "id": "formula1",
+    "league": "Formula 1 Italian GP":
+ {
+      "name": "Formula 1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnY7bXbtG-mYeRr2DuPnj7odRDLVSEWc_M5xmIPDOoaO9RlDUp_4nizQ2T&s=10"
+    },
+    "team2": {
+      "name": "Formula 1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnY7bXbtG-mYeRr2DuPnj7odRDLVSEWc_M5xmIPDOoaO9RlDUp_4nizQ2T&s=10"
+    },
+    "kickoff_date": "2025-09-05",
+    "kickoff_time": "15:30",
+    "match_date": "2025-09-05",
+    "match_time": "15:30",
+    "duration": "90",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
+    "servers": [
+      {
+        "url": "https://artplay.pages.dev/?id=TNT2",
+        "label": "CH 01 HD"
+      },
+      {
+        "url": "https://artplay.pages.dev/?id=TNT2",
+        "label": "CH 02 HD"
+      },
+      {
+        "url": "https://artplay.pages.dev/?id=TNT2",
+        "label": "CH 03 HD"
+      }
+    ],
+    "is_womens": false
+  },
+  {
     "id": "Indonesia-Chinese-Taipei",
     "league": "Friendly International",
     "team1": {
