@@ -18,7 +18,7 @@
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://flvos.pages.dev/",
+        "url": "https://flvos.pages.dev/?file=https://pc-gqj-pull.yjhl7.com/live/gqj_stream_121905_8.flv?txSecret=3b1efb72d556c8a61f9d65a0c0c03ed4&txTime=68BC3629",
         "label": "COURT 1"
       },
       {
@@ -121,16 +121,16 @@
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://list-govoet.blogspot.com/p/embed1.html",
-        "label": "CH-ID"
+        "url": "https://flvos.pages.dev/?file=https://pc-gqj-pull.yjhl7.com/live/gqj_stream_121905_8.flv?txSecret=3b1efb72d556c8a61f9d65a0c0c03ed4&txTime=68BC3629",
+        "label": "CH 01 HD"
       },
       {
-        "url": "https://list-govoet.blogspot.com/p/embed2.html",
-        "label": "CH-ID"
+        "url": "https://flvos.pages.dev/?file=https://pc-gqj-pull.yjhl7.com/live/gqj_stream_121905_8.flv?txSecret=3b1efb72d556c8a61f9d65a0c0c03ed4&txTime=68BC3629",
+        "label": "CH 02"
       },
       {
-        "url": "https://list-govoet.blogspot.com/p/channel1.html",
-        "label": "CH-ID"
+        "url": "https://flvos.pages.dev/?file=https://pc-gqj-pull.yjhl7.com/live/gqj_stream_121905_8.flv?txSecret=3b1efb72d556c8a61f9d65a0c0c03ed4&txTime=68BC3629",
+        "label": "CH 03"
       }
     ],
     "is_womens": false
