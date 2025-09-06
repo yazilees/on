@@ -98,17 +98,17 @@
     "id": "Indonesia-Chinese-Taipei",
     "league": "Friendly International",
     "team1": {
-      "name": "Indonesia",
-      "logo": "https://static.flashscore.com/res/image/data/WvrcHkXg-QBz8eAFI.png"
+      "name": "Mexico",
+      "logo": "https://cdn.sportnanoapi.com/football/team/3653cce234494bfbd33e077f4a028f66.png"
     },
     "team2": {
-      "name": "Chinese Taipei",
-      "logo": "https://static.flashscore.com/res/image/data/xjrSUIEG-251yRjVj.png"
+      "name": "Japan",
+      "logo": "https://cdn.sportnanoapi.com/football/team/0437356503a22e50b9e8aa76145c7f71.png"
     },
-    "kickoff_date": "2025-09-05",
-    "kickoff_time": "20:00",
-    "match_date": "2025-09-05",
-    "match_time": "20:00",
+    "kickoff_date": "2025-09-07",
+    "kickoff_time": "09:00",
+    "match_date": "2025-09-07",
+    "match_time": "09:00",
     "duration": "5",
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
