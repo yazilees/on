@@ -95,20 +95,20 @@
     "is_womens": false
   },
   {
-    "id": "japan-mexico",
-    "league": "Friendly International",
+    "id": "semenpadang",
+    "league": "SuperLeague Indonesia",
     "team1": {
-      "name": "Mexico",
-      "logo": "https://cdn.sportnanoapi.com/football/team/3653cce234494bfbd33e077f4a028f66.png"
+      "name": "Seman Padang",
+      "logo": "https://cdn.sportnanoapi.com/football/team/84cbbc8bc40a15d27aafc116d775cd27.png"
     },
     "team2": {
-      "name": "Japan",
-      "logo": "https://cdn.sportnanoapi.com/football/team/0437356503a22e50b9e8aa76145c7f71.png"
+      "name": "PSBS Biak",
+      "logo": "https://cdn.sportnanoapi.com/football/team/cbd5d35d354519a981a2a97f5c41bcbb.png"
     },
-    "kickoff_date": "2025-09-07",
-    "kickoff_time": "09:00",
-    "match_date": "2025-09-07",
-    "match_time": "09:00",
+    "kickoff_date": "2025-09-11",
+    "kickoff_time": "15:30",
+    "match_date": "2025-09-11",
+    "match_time": "15:30",
     "duration": "5",
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
