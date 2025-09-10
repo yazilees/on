@@ -38,56 +38,56 @@
         "id": "ssc1",
         "name": "SSC Sports 1",
         "logo": "https://i.ibb.co.com/d5KXK6T/ssc1.png",
-        "url": "https://lesakco.blogspot.com/?id=SSC1&m=1",
+        "url": "https://artplay.pages.dev/?id=SSC1",
         "status": "Online"
     },
     {
         "id": "ssc2",
         "name": "SSC Sports 2",
         "logo": "https://i.ibb.co.com/2qVY61S/ssc2.png",
-        "url": "https://lesakco.blogspot.com/?id=SSC2",
+        "url": "https://artplay.pages.dev/?id=SSC2",
         "status": "Online"
     },
     {
         "id": "ssc3",
         "name": "SSC Sports 3",
         "logo": "https://i.ibb.co.com/WpLnwRN/ssc3.png",
-        "url": "https://lesakco.blogspot.com/?id=SSC3",
+        "url": "https://artplay.pages.dev/?id=SSC3",
         "status": "Online"
     },
     {
         "id": "ssc4",
         "name": "SSC Sports 4",
         "logo": "https://i.ibb.co.com/0hwdSbD/ssc4.png",
-        "url": "https://lesakco.blogspot.com/?id=SSC4",
+        "url": "https://artplay.pages.dev/?id=SSC4",
         "status": "Online"
     },
     {
         "id": "ssc5",
         "name": "SSC Sports 5",
         "logo": "https://i.ibb.co.com/8m9Czd5/ssc5.png",
-        "url": "https://lesakco.blogspot.com/?id=SSC5",
+        "url": "https://artplay.pages.dev/?id=SSC5",
         "status": "Online"
     },
     {
         "id": "ssc1x",
         "name": "SSC Extra 1",
         "logo": "https://i.ibb.co.com/tswCqzB/ssc1x.png",
-        "url": "https://lesakco.blogspot.com/?id=SSC1X",
+        "url": "https://artplay.pages.dev/?id=SSC1X",
         "status": "Online"
     },
     {
         "id": "ssc2x",
         "name": "SSC Extra 2",
         "logo": "https://i.ibb.co.com/18PXp9P/ssc2x.png",
-        "url": "https://lesakco.blogspot.com/?id=SSC2X",
+        "url": "https://artplay.pages.dev/?id=SSC2X",
         "status": "Online"
     },
     {
         "id": "ssc3x",
         "name": "SSC Extra 3",  
         "logo": "https://i.ibb.co.com/GM4vHw6/ssc3x.png",
-        "url": "https://lesakco.blogspot.com/?id=SSC3X",
+        "url": "https://artplay.pages.dev/?id=SSC3X",
         "status": "Online"
     }
 ]
