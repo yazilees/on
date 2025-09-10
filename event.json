@@ -143,6 +143,33 @@
         "url": "https://flvos.pages.dev/?file=",
         "label": "CH 02 HD"
       }
+    ]},
+  {
+    "id": "madura",
+    "league": "SuperLeague Indonesia",
+    "team1": {
+      "name": "Madura United",
+      "logo": "https://cdn.sportnanoapi.com/football/team/320ff18ba51acdf34c92311dec8186a7.png"
+    },
+    "team2": {
+      "name": "Bayankara",
+      "logo": "https://cdn.sportnanoapi.com/football/team/837cf9a178940067578b7343018e003a.png"
+    },
+    "kickoff_date": "2025-09-12",
+    "kickoff_time": "19:00",
+    "match_date": "2025-09-12",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
+    "servers": [
+      {
+        "url": "https://flvos.pages.dev/?file=",
+        "label": "CH 01 HD"
+      },
+      {
+        "url": "https://flvos.pages.dev/?file=",
+        "label": "CH 02 HD"
+      }
     ]}
 
     ]
