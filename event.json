@@ -32,6 +32,10 @@
       {
         "url": "https://flvos.pages.dev/?file=https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629783901061_AiHD.m3u8?txSecret=fa4157f002d5e93f05549eb96e709bd3&txTime=68C202F0",
         "label": "COURT 4"
+      },
+      {
+        "url": "/",
+        "label": "REFRESH"
       }
     ],
     "is_womens": false
