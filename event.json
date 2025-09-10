@@ -55,14 +55,14 @@
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://flvos.pages.dev/?file=https://pull-prod511.zczlxxkj.com/live/8497120_lhd.flv?auth_info=1CMUSoSOgqXmVHL6j1QB%2FLn2BtVAtGd11qGkKkG6O1FspHIZ8Zlk6dATTref4MG8.4373306e644148427a3566487154716f",
+        "url": "https://flvos.pages.dev/?file=",
         "label": "CH 01 HD"
       },
       {
-        "url": "https://flvos.pages.dev/?file=https://pull-prod511.zczlxxkj.com/live/8497120_lsd.flv?auth_info=%2F4Wodh%2FaO0Kq%2F3Np3StnzhgiWA85Z2hl%2FFq1wqWs4FPqMxTPnh2KYEJhubttc1M7.624e31594f47517441635146326e3734",
+        "url": "https://flvos.pages.dev/?file=",
         "label": "CH 02 HD"
       }
-    ],}
+    ]}
   {
     "id": "persita",
     "league": "SuperLeague Indonesia",
@@ -89,6 +89,6 @@
         "url": "https://flvos.pages.dev/?file=",
         "label": "CH 02 HD"
       }
-    ],}
+    ]}
 
     ]
