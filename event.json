@@ -224,6 +224,33 @@
         "url": "https://flvos.pages.dev/?file=",
         "label": "CH 02 HD"
       }
+    ]},
+  {
+    "id": "borneo",
+    "league": "SuperLeague Indonesia",
+    "team1": {
+      "name":  "PSIM Yogyakarta",
+      "logo": "https://cdn.sportnanoapi.com/football/team/1a64731cd883e9d734e29a83301ea849.png"
+    },
+    "team2": {
+      "name": "Borneo FC",
+      "logo": "https://cdn.sportnanoapi.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "15:30",
+    "match_date": "2025-09-14",
+    "match_time": "15:30",
+    "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
+    "servers": [
+      {
+        "url": "https://flvos.pages.dev/?file=",
+        "label": "CH 01 HD"
+      },
+      {
+        "url": "https://flvos.pages.dev/?file=",
+        "label": "CH 02 HD"
+      }
     ]}
 
     ]
