@@ -10,11 +10,11 @@
       "name": "Badminton",
       "logo": "https://img.bwfbadminton.com/image/upload/v1747962450/assets/tournaments/logo/DD92BA3F-B739-4B94-8F72-F4277A1C5034.png"
     },
-    "kickoff_date": "2025-09-09",
+    "kickoff_date": "2025-09-10",
     "kickoff_time": "09:00",
-    "match_date": "2025-09-09",
+    "match_date": "2025-09-10",
     "match_time": "06:00",
-    "duration": "12",
+    "duration": "100",
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
