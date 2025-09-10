@@ -37,68 +37,10 @@
     "is_womens": false
   },
   {
-    "id": "MotoGP",
-    "league": "MotoGP Catalan Barcelona 2025",
-    "team1": {
-      "name": "MotoGP",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Po7XRR9D5-BO9NUoJmgZg6iNEmLG4gaZMA&s"
-    },
-    "team2": {
-      "name": "MotoGP",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Po7XRR9D5-BO9NUoJmgZg6iNEmLG4gaZMA&s"
-    },
-    "kickoff_date": "2025-09-05",
-    "kickoff_time": "15:30",
-    "match_date": "2025-09-05",
-    "match_time": "15:30",
-    "duration": "90",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://artplay.pages.dev/?id=TNT2",
-        "label": "CH 01 HD"
-      },
-      {
-        "url": "https://flvos.pages.dev/?file=https://pullws-gsc.hxin99.com/live/dps-59286349-saturn-wsu.flv?wsSecret=0b89ab972e662672382c4d244ab4391e&wsABSTime=68bd1894",
-        "label": "CH 02 HD"
-      }
-    ],
-    "is_womens": false
-  },
-  {
-    "id": "formula1",
-    "league": "Formula 1 Italian GP",
-     "team1": {
-      "name": "Formula 1",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnY7bXbtG-mYeRr2DuPnj7odRDLVSEWc_M5xmIPDOoaO9RlDUp_4nizQ2T&s=10"
-    },
-    "team2": {
-      "name": "Formula 1",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnY7bXbtG-mYeRr2DuPnj7odRDLVSEWc_M5xmIPDOoaO9RlDUp_4nizQ2T&s=10"
-    },
-    "kickoff_date": "2025-09-05",
-    "kickoff_time": "15:30",
-    "match_date": "2025-09-05",
-    "match_time": "15:30",
-    "duration": "90",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://artplay.pages.dev/?id=SSC2",
-        "label": "CH 01 HD"
-      },
-      {
-        "url": "https://tvhdzy.online/global.php?id=tudn_usa",
-        "label": "CH 02 HD"
-      }
-    ],
-    "is_womens": false
-  },
-  {
     "id": "semenpadang",
     "league": "SuperLeague Indonesia",
     "team1": {
-      "name": "Seman Padang",
+      "name": "SemenPadang",
       "logo": "https://cdn.sportnanoapi.com/football/team/84cbbc8bc40a15d27aafc116d775cd27.png"
     },
     "team2": {
@@ -109,39 +51,6 @@
     "kickoff_time": "15:30",
     "match_date": "2025-09-11",
     "match_time": "15:30",
-    "duration": "5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://flvos.pages.dev/?file=https://pull-prod511.zczlxxkj.com/live/8497120_lhd.flv?auth_info=1CMUSoSOgqXmVHL6j1QB%2FLn2BtVAtGd11qGkKkG6O1FspHIZ8Zlk6dATTref4MG8.4373306e644148427a3566487154716f",
-        "label": "CH 01 HD"
-      },
-      {
-        "url": "https://flvos.pages.dev/?file=https://pull-prod511.zczlxxkj.com/live/8497120_lsd.flv?auth_info=%2F4Wodh%2FaO0Kq%2F3Np3StnzhgiWA85Z2hl%2FFq1wqWs4FPqMxTPnh2KYEJhubttc1M7.624e31594f47517441635146326e3734",
-        "label": "CH 02 HD"
-      },
-      {
-        "url": "https://flvos.pages.dev/?file=https://pull-prod511.zczlxxkj.com/live/8497120_lud.flv?auth_info=Kg%2B4STe6lK7RjKOhCSm9P7c33kPhln6MOPmi7YhWeWrHkoF1T9N8gQ5etYSg%2BbKL.384f5677667751527634585864547742",
-        "label": "CH 03 HD"
-      }
-    ],
-    "is_womens": false
-  },
-  {
-    "id": "qatar-russia",
-    "league": "Friendly International",
-    "team1": {
-      "name": "Qatar",
-      "logo": "https://cdn.sportnanoapi.com/football/team/7303a103c93fea0445384d6ff3f3d1b9.png"
-    },
-    "team2": {
-      "name": "Russia",
-      "logo": "https://cdn.sportnanoapi.com/football/team/ca3445d71de0ef386033037868c58d92.png"
-    },
-    "kickoff_date": "2025-09-07",
-    "kickoff_time": "22:00",
-    "match_date": "2025-09-07",
-    "match_time": "22:00",
     "duration": "3.5",
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
@@ -152,44 +61,34 @@
       {
         "url": "https://flvos.pages.dev/?file=https://pull-prod511.zczlxxkj.com/live/8497120_lsd.flv?auth_info=%2F4Wodh%2FaO0Kq%2F3Np3StnzhgiWA85Z2hl%2FFq1wqWs4FPqMxTPnh2KYEJhubttc1M7.624e31594f47517441635146326e3734",
         "label": "CH 02 HD"
-      },
-      {
-        "url": "https://flvos.pages.dev/?file=https://pull-prod511.zczlxxkj.com/live/8497120_lud.flv?auth_info=Kg%2B4STe6lK7RjKOhCSm9P7c33kPhln6MOPmi7YhWeWrHkoF1T9N8gQ5etYSg%2BbKL.384f5677667751527634585864547742",
-        "label": "CH 03 HD"
       }
-    ],
-    "is_womens": false
-  },
+    ],}
   {
-    "id": "Macau-U23-Indonesia-U23",
-    "league": "AFC Asian Cup U23 - Qualification - Round 2",
+    "id": "persita",
+    "league": "SuperLeague Indonesia",
     "team1": {
-      "name": "Macau U23",
-      "logo": "https://static.flashscore.com/res/image/data/nHSywIh5-Wl1gI8lP.png"
+      "name": "Persita Tanggerang",
+      "logo": "https://cdn.sportnanoapi.com/football/team/9bd7c90318561f7d8ffa57eee817e787.png"
     },
     "team2": {
-      "name": "Indonesia U23",
-      "logo": "https://static.flashscore.com/res/image/data/f5toOQFG-IiA9AZbd.png"
+      "name": "PSM Makassar",
+      "logo": "https://cdn.sportnanoapi.com/football/team/cbd5d35d354519a981a2a97f5c41bcbb.png"
     },
-    "kickoff_date": "2025-09-06",
-    "kickoff_time": "19:30",
-    "match_date": "2025-09-06",
-    "match_time": "19:20",
+    "kickoff_date": "2025-09-11",
+    "kickoff_time": "19:00",
+    "match_date": "2025-09-11",
+    "match_time": "19:00",
     "duration": "3.5",
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://list-govoet.blogspot.com/p/embed1.html",
-        "label": "CH-ID"
+        "url": "https://flvos.pages.dev/?file=",
+        "label": "CH 01 HD"
       },
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly82MDE2YzEyODE0MTAzZTI1NTNmMzU0NDkyZDcxMTM0ZS52LnNtdGNkbnMubmV0L3BsYXkxbm0uaG55b25nc2h1bi5jbi9saXZlL2IyYWVmY2UyMDI1NGUxNzJhZTY2ZTRiMjk4Yzk1MWMzLm0zdTg/dHhTZWNyZXQ9Zjc5MmU2NGI3MDM2MjFkZjJhYjA0MjY0Y2ExMWE0MTgmdHhUaW1lPTY4YmFlNDVi",
-        "label": "CH-ID"
-      },
-      {
-        "url": "https://list-govoet.blogspot.com/p/channel1.html",
-        "label": "CH-ID"
+        "url": "https://flvos.pages.dev/?file=",
+        "label": "CH 02 HD"
       }
-    ] 
- }
+    ],}
+
     ]
