@@ -13,6 +13,20 @@
         "url": "https://artplay.pages.dev/?id=TNT2",
         "status": "Online"
     },
+{
+        "id": "tnt2",
+        "name": "TNT Sports 3",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREdGAOA56Q5MrZmtE01gcihBxSVNLkEwRTag&s",
+        "url": "https://artplay.pages.dev/?id=TNT3",
+        "status": "Online"
+    },
+{
+        "id": "tnt2",
+        "name": "TNT Sports 4",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREdGAOA56Q5MrZmtE01gcihBxSVNLkEwRTag&s",
+        "url": "https://artplay.pages.dev/?id=TNT4",
+        "status": "Online"
+    },
     {
         "id": "ssc1",
         "name": "SSC Sports 1",
