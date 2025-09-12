@@ -18,11 +18,11 @@
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://flvos.pages.dev/?file=https://v4-82ca4a54ad45c616f188ba4a0fdae0f2.livehwc4.com/pullhw.zhaoyangyang.cn/live/8827988_lhd.m3u8?edge_slice=true&auth_info=BRmg8L8G2ox%2FJI0aaC2bgCfG2MiSFvn12iouJ3eI8J9rn%2FRRD2nfU8%2Fok94VXqy5.643036676863534f4b6a467243533544&sub_m3u8=true&user_session_id=0b28333f353c7f071b3d9989b25e969f",
+        "url": "https://fasplay.pages.dev/?hls=court1",
         "label": "COURT 1 SD"
       },
       {
-        "url": "https://flvos.pages.dev/?file=https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/4000631863675061_AiHD.m3u8?txSecret=ec1a8b10e7b5c2f3aaf9c1b71a7ecee5&txTime=68C4C210",
+        "url": "https://fasplay.pages.dev/?hls=court2",
         "label": "COURT 1"
       },
       {
@@ -30,7 +30,7 @@
         "label": "COURT 2"
       },
       {
-        "url": "https://flvos.pages.dev/?file=https://v4-82ca4a54ad45c616f188ba4a0fdae0f2.livehwc4.com/pull-prod511.zczlxxkj.com/live/8514224_lhd.m3u8?edge_slice=true&user_session_id=2f7c1ca833e84ba054409c7120958266&sub_m3u8=true&auth_info=lUKYMGoI9vKZv%2FU%2F3YTjrObHgJebwoRD98VWyJVn8ccEjHA3nXOupU%2Fws0ZF1nJc.354169794967506e7343336b6c397971",
+        "url": "https://fasplay.pages.dev/?hls=court4",
         "label": "COURT 3"
       }
     ],
