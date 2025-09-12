@@ -37,249 +37,6 @@
     "is_womens": false
   },
   {
-    "id": "semenpadang",
-    "league": "SuperLeague Indonesia",
-    "team1": {
-      "name": "SemenPadang",
-      "logo": "https://cdn.sportnanoapi.com/football/team/84cbbc8bc40a15d27aafc116d775cd27.png"
-    },
-    "team2": {
-      "name": "PSBS Biak",
-      "logo": "https://cdn.sportnanoapi.com/football/team/cbd5d35d354519a981a2a97f5c41bcbb.png"
-    },
-    "kickoff_date": "2025-09-11",
-    "kickoff_time": "15:30",
-    "match_date": "2025-09-11",
-    "match_time": "15:30",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 01 HD"
-      },
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 02 HD"
-      }
-    ]},
-  {
-    "id": "persita",
-    "league": "SuperLeague Indonesia",
-    "team1": {
-      "name": "PSM Makassar",
-      "logo": "https://cdn.sportnanoapi.com/football/team/9bd7c90318561f7d8ffa57eee817e787.png"
-    },
-    "team2": {
-      "name": "Persita Tanggerang",
-      "logo": "https://cdn.sportnanoapi.com/football/team/da85ffb03146e72ce9928729dcabda51.png"
-    },
-    "kickoff_date": "2025-09-11",
-    "kickoff_time": "19:00",
-    "match_date": "2025-09-11",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 01 HD"
-      },
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 02 HD"
-      }
-    ]},
-  {
-    "id": "persib",
-    "league": "SuperLeague Indonesia",
-    "team1": {
-      "name": "Persib Bandung",
-      "logo": "https://cdn.sportnanoapi.com/football/team/b2004093bf25a5a8d1768970d6e49d71.png"
-    },
-    "team2": {
-      "name": "Persebaya",
-      "logo": "https://cdn.sportnanoapi.com/football/team/66307444901ddb38c881129b7ea0105e.png"
-    },
-    "kickoff_date": "2025-09-12",
-    "kickoff_time": "15:30",
-    "match_date": "2025-09-12",
-    "match_time": "15:30",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 01 HD"
-      },
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 02 HD"
-      }
-    ]},
-  {
-    "id": "persik",
-    "league": "SuperLeague Indonesia",
-    "team1": {
-      "name": "Persik Kediri",
-      "logo": "https://cdn.sportnanoapi.com/football/team/ba93b52107e379dbcf350e144e0f80a8.png"
-    },
-    "team2": {
-      "name": "Malut United",
-      "logo": "https://cdn.sportnanoapi.com/football/team/2a0ed6cd242323e53d426715a55aedc0.png"
-    },
-    "kickoff_date": "2025-09-12",
-    "kickoff_time": "15:30",
-    "match_date": "2025-09-12",
-    "match_time": "15:30",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 01 HD"
-      },
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 02 HD"
-      }
-    ]},
-  {
-    "id": "madura",
-    "league": "SuperLeague Indonesia",
-    "team1": {
-      "name": "Madura United",
-      "logo": "https://cdn.sportnanoapi.com/football/team/320ff18ba51acdf34c92311dec8186a7.png"
-    },
-    "team2": {
-      "name": "Bayangkara",
-      "logo": "https://cdn.sportnanoapi.com/football/team/837cf9a178940067578b7343018e003a.png"
-    },
-    "kickoff_date": "2025-09-12",
-    "kickoff_time": "19:00",
-    "match_date": "2025-09-12",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 01 HD"
-      },
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 02 HD"
-      }
-    ]},
-  {
-    "id": "arema",
-    "league": "SuperLeague Indonesia",
-    "team1": {
-      "name":  "Arema",
-      "logo": "https://cdn.sportnanoapi.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png"
-    },
-    "team2": {
-      "name": "Dewa United",
-      "logo": "https://cdn.sportnanoapi.com/football/team/76db1148a0e8a7c8e98ab05814cab691.png"
-    },
-    "kickoff_date": "2025-09-13",
-    "kickoff_time": "15:30",
-    "match_date": "2025-09-13",
-    "match_time": "15:30",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 01 HD"
-      },
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 02 HD"
-      }
-    ]},
-  {
-    "id": "persis",
-    "league": "SuperLeague Indonesia",
-    "team1": {
-      "name":  "Persis Solo",
-      "logo": "https://cdn.sportnanoapi.com/football/team/46e87ccb8a5cacc290719d822b9f8fe1.png"
-    },
-    "team2": {
-      "name": "Persijap",
-      "logo": "https://cdn.sportnanoapi.com/football/team/f4bd932b7d276a93696f4491f334c932.png"
-    },
-    "kickoff_date": "2025-09-13",
-    "kickoff_time": "19:00",
-    "match_date": "2025-09-13",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 01 HD"
-      },
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 02 HD"
-      }
-    ]},
-  {
-    "id": "borneo",
-    "league": "SuperLeague Indonesia",
-    "team1": {
-      "name":  "PSIM Yogyakarta",
-      "logo": "https://cdn.sportnanoapi.com/football/team/1a64731cd883e9d734e29a83301ea849.png"
-    },
-    "team2": {
-      "name": "Borneo FC",
-      "logo": "https://cdn.sportnanoapi.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png"
-    },
-    "kickoff_date": "2025-09-14",
-    "kickoff_time": "15:30",
-    "match_date": "2025-09-14",
-    "match_time": "15:30",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 01 HD"
-      },
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 02 HD"
-      }
-    ]},
-  {
-    "id": "persija",
-    "league": "SuperLeague Indonesia",
-    "team1": {
-      "name":  "Persija Jakarta",
-      "logo": "https://cdn.sportnanoapi.com/football/team/10db29eabad13994d9729d8983f8d21a.png"
-    },
-    "team2": {
-      "name": "Bali United",
-      "logo": "https://cdn.sportnanoapi.com/football/team/09fe2ecf88f68970da755f8655d5da8a.png"
-    },
-    "kickoff_date": "2025-09-14",
-    "kickoff_time": "19:00",
-    "match_date": "2025-09-14",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 01 HD"
-      },
-      {
-        "url": "https://flvos.pages.dev/?file=",
-        "label": "CH 02 HD"
-      }
-    ]},
-  {
     "id": "PremierLeague-Arsenal-Nottingham",
     "league": "Premier League",
     "team1": {
@@ -295,7 +52,16 @@
     "match_date": "2025-09-13",
     "match_time": "18:20",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=arena1p",
+        "label": "CH-HR"
+      }
+    ]
   },
   {
     "id": "PremierLeague-Bournemouth-Brighton",
@@ -803,6 +569,24 @@
     "servers": []
   },
   {
+    "id": "Ligue1-Rennes-Lyon",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Rennes",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/rennes.png"
+    },
+    "team2": {
+      "name": "Lyon",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lyon.png"
+    },
+    "kickoff_date": "2025-09-15",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-15",
+    "match_time": "01:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Bundesliga-BayerLeverkusen-EintrachtFrankfurt",
     "league": "Bundesliga",
     "team1": {
@@ -1078,6 +862,42 @@
     "servers": []
   },
   {
+    "id": "SerieA-ACMilan-Bologna",
+    "league": "Serie A",
+    "team1": {
+      "name": "AC Milan",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ac-milan.png"
+    },
+    "team2": {
+      "name": "Bologna",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bologna.png"
+    },
+    "kickoff_date": "2025-09-15",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-15",
+    "match_time": "01:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Verona-Cremonese",
+    "league": "Serie A",
+    "team1": {
+      "name": "Verona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/verona.png"
+    },
+    "team2": {
+      "name": "Cremonese",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cremonese.png"
+    },
+    "kickoff_date": "2025-09-15",
+    "kickoff_time": "23:30",
+    "match_date": "2025-09-15",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "LaLiga-Sevilla-Elche",
     "league": "LaLiga",
     "team1": {
@@ -1220,55 +1040,109 @@
     "servers": []
   },
   {
-    "id": "Qualif.CmAmsud-Equateur-Argentine",
-    "league": "World Cup Qualification",
+    "id": "LaLiga-Barcelona-Valencia",
+    "league": "LaLiga",
     "team1": {
-      "name": "Ecuador",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ecuador.png"
+      "name": "Barcelona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
     },
     "team2": {
-      "name": "Argentina",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/argentina.png"
+      "name": "Valencia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/valencia.png"
     },
-    "kickoff_date": "2025-09-10",
-    "kickoff_time": "06:00",
-    "match_date": "2025-09-10",
-    "match_time": "05:50",
+    "kickoff_date": "2025-09-15",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-15",
+    "match_time": "01:50",
     "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Persib-Bandung-Persebaya",
+    "league": "Super League - Round 5",
+    "team1": {
+      "name": "Persib Bandung",
+      "logo": "https://static.flashscore.com/res/image/data/QuGrSijl-fXN2TGqm.png"
+    },
+    "team2": {
+      "name": "Persebaya",
+      "logo": "https://static.flashscore.com/res/image/data/8MQJKwvS-jaJfGoOS.png"
+    },
+    "kickoff_date": "2025-09-12",
+    "kickoff_time": "15:30",
+    "match_date": "2025-09-12",
+    "match_time": "15:20",
+    "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?shaka=ssc1",
-        "label": "CH-AR"
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yOTEyNzcubTN1OA==",
+        "label": "CH-VN"
       },
       {
-        "url": "https://multi.govoet.my.id/?shaka=arena2p",
-        "label": "CH-HR"
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9zdHJlYW0udGl0YW5saXZlc2NvcmUuY29tL2xpdmUvTFhTQ09SRS00ODc5NzgzLm0zdTg=",
+        "label": "CH-ID"
+      },
+      {
+        "url": "https://list-govoet.blogspot.com/p/embed1.html",
+        "label": "CH-ID"
       }
     ]
   },
   {
-    "id": "Qualif.CmAmsud-Bolivie-Brésil",
-    "league": "World Cup Qualification",
+    "id": "Persik-Kediri-Malut-United",
+    "league": "Super League - Round 5",
     "team1": {
-      "name": "Bolivia",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bolivia.png"
+      "name": "Persik Kediri",
+      "logo": "https://static.flashscore.com/res/image/data/IgemUgg5-fudV7NWp.png"
     },
     "team2": {
-      "name": "Brazil",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/brazil.png"
+      "name": "Malut United",
+      "logo": "https://static.flashscore.com/res/image/data/CzyPAuZA-IijC3nOP.png"
     },
-    "kickoff_date": "2025-09-10",
-    "kickoff_time": "06:30",
-    "match_date": "2025-09-10",
-    "match_time": "06:20",
+    "kickoff_date": "2025-09-12",
+    "kickoff_time": "15:30",
+    "match_date": "2025-09-12",
+    "match_time": "15:20",
     "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://hls.govoet.my.id/?id=SPORTVSD",
-        "label": "CH-PT"
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjcxNTkubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://list-govoet.blogspot.com/p/embed2.html",
+        "label": "CH-ID"
+      }
+    ]
+  },
+  {
+    "id": "Madura-United-FC-Bhayangkara",
+    "league": "Super League - Round 5",
+    "team1": {
+      "name": "Madura United",
+      "logo": "https://static.flashscore.com/res/image/data/8rLZRaFa-dEkqbGa9.png"
+    },
+    "team2": {
+      "name": "FC Bhayangkara",
+      "logo": "https://static.flashscore.com/res/image/data/8jnKBPkl-UBTLvuxH.png"
+    },
+    "kickoff_date": "2025-09-12",
+    "kickoff_time": "19:00",
+    "match_date": "2025-09-12",
+    "match_time": "18:50",
+    "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MzI5OTkubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://list-govoet.blogspot.com/p/embed1.html",
+        "label": "CH-ID"
       }
     ]
   }
 ]
-
-    
