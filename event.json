@@ -22,15 +22,15 @@
         "label": "COURT 1 SD"
       },
       {
-        "url": "https://fasplay.pages.dev/?hls=court2",
+        "url": "https://fasplay.pages.dev/?hls=court4",
         "label": "COURT 1"
       },
       {
-        "url": "https://flvos.pages.dev/?file=https://5b45098b7b841fa1192076b23cc3d29b.v.smtcdns.net/play.cbalive.weibisai.com/live/4000632337372061_AiSD.m3u8?txSecret=247a20e6b5e3dd313c589aef847062be&txTime=68C4C210",
+        "url": "https://fasplay.pages.dev/?hls=court2",
         "label": "COURT 2"
       },
       {
-        "url": "https://fasplay.pages.dev/?hls=court4",
+        "url": "https://fasplay.pages.dev/?hls=court3",
         "label": "COURT 3"
       }
     ],
