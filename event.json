@@ -22,13 +22,13 @@
         "label": "COURT 1 SD"
       },
       {
+        "url": "https://fasplay.pages.dev/?hls=court3",
+        "label": "COURT 1 SD +"
+      },
+      {
         "url": "https://fasplay.pages.dev/?hls=court2",
         "label": "COURT 1 HD"
       },
-      {
-        "url": "https://fasplay.pages.dev/?hls=court3",
-        "label": "COURT 1 +"
-      }
     ],
     "is_womens": false
   },
