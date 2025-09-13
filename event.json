@@ -33,6 +33,39 @@
     "is_womens": false
   },
   {
+    "id": "motogp",
+    "league": "MotoGP San Marino 2025",
+    "team1": {
+      "name": "MotoGP",
+      "logo": "https://cdn-5.motorsport.com/images/amp/2erk9abY/s1000/motogp-italian-gp-2016-motogp-.jpg"
+    },
+    "team2": {
+      "name": "MotoGP",
+      "logo": "https://cdn-5.motorsport.com/images/amp/2erk9abY/s1000/motogp-italian-gp-2016-motogp-.jpg"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "14:00",
+    "match_date": "2025-09-13",
+    "match_time": "07:00",
+    "duration": "100",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
+    "servers": [
+      {
+        "url": "https://fasplay.pages.dev/?hls=court1",
+        "label": "CH 01 HD"
+      },
+      {
+        "url": "https://fasplay.pages.dev/?hls=court3",
+        "label": "CH 01 HD +"
+      },
+      {
+        "url": "https://fasplay.pages.dev/?hls=court2",
+        "label": "CH 01 SD"
+      }
+    ],
+    "is_womens": false
+  },
+  {
     "id": "PremierLeague-Arsenal-Nottingham",
     "league": "Premier League",
     "team1": {
