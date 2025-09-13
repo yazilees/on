@@ -51,7 +51,7 @@
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://fasplay.pages.dev/?hls=court1",
+        "url": "https://fasplay.pages.dev/?shaka=TNT2",
         "label": "CH 01 HD"
       },
       {
