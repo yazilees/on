@@ -53,14 +53,6 @@
       {
         "url": "https://fasplay.pages.dev/?shaka=TNT2",
         "label": "CH 01 HD"
-      },
-      {
-        "url": "https://fasplay.pages.dev/?shaka=spo2",
-        "label": "CH 01 HD +"
-      },
-      {
-        "url": "https://fasplay.pages.dev/?shaka=TNT2",
-        "label": "CH 02 HD"
       }
     ],
     "is_womens": false
