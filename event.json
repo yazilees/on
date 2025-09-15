@@ -4,16 +4,16 @@
     "league": "BWF LI-NING Hong Kong Open 2025",
     "team1": {
       "name": "Badminton",
-      "logo": "https://img.bwfbadminton.com/image/upload/v1747962450/assets/tournaments/logo/DD92BA3F-B739-4B94-8F72-F4277A1C5034.png"
+      "logo": "https://img.bwfbadminton.com/image/upload/v1754875501/assets/tournaments/logo/9B8259F3-794E-4B05-8FCC-2704758CEDFC.png"
     },
     "team2": {
       "name": "Badminton",
-      "logo": "https://img.bwfbadminton.com/image/upload/v1747962450/assets/tournaments/logo/DD92BA3F-B739-4B94-8F72-F4277A1C5034.png"
+      "logo": "https://img.bwfbadminton.com/image/upload/v1754875501/assets/tournaments/logo/9B8259F3-794E-4B05-8FCC-2704758CEDFC.png"
     },
-    "kickoff_date": "2025-09-14",
+    "kickoff_date": "2025-09-16",
     "kickoff_time": "13:00",
-    "match_date": "2025-09-14",
-    "match_time": "06:00",
+    "match_date": "2025-09-16",
+    "match_time": "09:00",
     "duration": "100",
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
