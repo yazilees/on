@@ -51,8 +51,12 @@
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://fasplay.pages.dev/?shaka=TNT2",
+        "url": "https://fasplay.pages.dev/?shaka=spo2",
         "label": "CH 01 HD"
+      },
+      {
+        "url": "https://fasplay.pages.dev/?shaka=tnt2",
+        "label": "CH 02 HD"
       }
     ],
     "is_womens": false
