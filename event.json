@@ -85,15 +85,15 @@
     "servers": [
       {
         "url": "https://fasplay.pages.dev/?hls=lig1",
-        "label": "CH-NL"
+        "label": "CH 01 HD"
       },
       {
         "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9zdHJlYW0udGl0YW5saXZlc2NvcmUuY29tL2xpdmUvTFhTQ09SRS0xMDAwMDAwNTIubTN1OA==",
-        "label": "CH-ID"
+        "label": "CH 02 HD"
       },
       {
         "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80OTE4NzMubTN1OA==",
-        "label": "CH-VN"
+        "label": "CH 03 HD"
       },
       {
         "url": "https://list-govoet.blogspot.com/p/embed1.html",
