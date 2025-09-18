@@ -84,7 +84,7 @@
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?shaka=espn1nl",
+        "url": "https://fasplay.pages.dev/?shaka=espn1",
         "label": "CH-NL"
       },
       {
